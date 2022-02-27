@@ -1,5 +1,5 @@
 # Projet_Machine_learning
-Projet de Machine Learning  de RODRIGUEZ Franck et CERCELET Matthias
+Projet de Machine Learning de RODRIGUEZ Franck et CERCELET Matthias
 
 
 Bonjour Mr Loubes et Mr Risser, 
